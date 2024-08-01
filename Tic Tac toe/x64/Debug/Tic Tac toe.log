@@ -1,0 +1,10 @@
+﻿  TIc Ta Toe.cpp
+C:\Users\surre\Documents\Tic Tac toe\Tic Tac toe\TIc Ta Toe.cpp(159,37): warning C4101: 'row': unreferenced local variable
+C:\Users\surre\Documents\Tic Tac toe\Tic Tac toe\TIc Ta Toe.cpp(159,42): warning C4101: 'col': unreferenced local variable
+C:\Users\surre\Documents\Tic Tac toe\Tic Tac toe\TIc Ta Toe.cpp(324,61): warning C4101: 'row': unreferenced local variable
+C:\Users\surre\Documents\Tic Tac toe\Tic Tac toe\TIc Ta Toe.cpp(324,66): warning C4101: 'col': unreferenced local variable
+C:\Users\surre\Documents\Tic Tac toe\Tic Tac toe\TIc Ta Toe.cpp(452,85): warning C4101: 'row': unreferenced local variable
+C:\Users\surre\Documents\Tic Tac toe\Tic Tac toe\TIc Ta Toe.cpp(452,90): warning C4101: 'col': unreferenced local variable
+  Tic Tac toe.vcxproj -> C:\Users\surre\Documents\Tic Tac toe\x64\Debug\Tic Tac toe.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
